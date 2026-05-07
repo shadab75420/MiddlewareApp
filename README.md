@@ -72,7 +72,7 @@ Adds a CSP header to protect against common vulnerabilities such as XSS.
    ```
    dotnet run
    ```
-3. Open browser and navigate to:
+3. Open browser and navigate to
 
    ```
    http://localhost:5187/
